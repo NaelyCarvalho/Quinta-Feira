@@ -5,6 +5,7 @@ R= Uma cópia do repositório remoto para a máquina local.
 R= Empacotamento de alteraçãoes, é uma alteração que fazemos no repositório local e efetivamos as alterações mandando para o repositório remoto.
 
 3- O que é um repositório?
+R= Repositório é uma pasta de arquivos do projeto.
 
 4- O que é um merge?
 
