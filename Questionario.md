@@ -26,3 +26,4 @@ R= É uma notificação para que as pessoas no projeto saibam que precisam fazer
 R= Fork é copiar o repositório de outra pessoa para sua conta.
 
 10- O que é um VCS?
+R= Sofwtare de controle de versão.
