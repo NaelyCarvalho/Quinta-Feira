@@ -19,8 +19,8 @@ R= Enviar as informações que foram empacotadas para o repositório remoto.
 7- O que é branch?
 R= Branch é uma área restrita do repositório que permite fazermos alteraçãoes, sem alterar o projeto principal.
 
-
 8- O que é pull request?
+R= É uma notificação para que as pessoas no projeto saibam que precisam fazer o merge do código na branch principal.
 
 9- O que é fork?
 
