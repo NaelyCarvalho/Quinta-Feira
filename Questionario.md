@@ -11,6 +11,7 @@ R= Repositório é uma pasta de arquivos do projeto.
 R= Merge é fundir uma branch com a branch main.
 
 5- O que é pull?
+R=Trazer alterações do repositório remoto para o repositório local.
 
 6- O que é push?
 
