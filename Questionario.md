@@ -8,6 +8,7 @@ R= Empacotamento de alteraçãoes, é uma alteração que fazemos no repositóri
 R= Repositório é uma pasta de arquivos do projeto.
 
 4- O que é um merge?
+R= Merge é fundir uma branch com a branch main.
 
 5- O que é pull?
 
