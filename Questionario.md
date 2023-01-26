@@ -14,6 +14,7 @@ R= Merge é fundir uma branch com a branch main.
 R=Trazer alterações do repositório remoto para o repositório local.
 
 6- O que é push?
+R= Enviar as informações que foram empacotadas para o repositório remoto.
 
 7- O que é branch?
 
