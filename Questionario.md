@@ -23,5 +23,6 @@ R= Branch é uma área restrita do repositório que permite fazermos alteração
 R= É uma notificação para que as pessoas no projeto saibam que precisam fazer o merge do código na branch principal.
 
 9- O que é fork?
+R= Fork é copiar o repositório de outra pessoa para sua conta.
 
 10- O que é um VCS?
