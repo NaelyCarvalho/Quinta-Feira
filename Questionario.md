@@ -17,6 +17,8 @@ R=Trazer alterações do repositório remoto para o repositório local.
 R= Enviar as informações que foram empacotadas para o repositório remoto.
 
 7- O que é branch?
+R= Branch é uma área restrita do repositório que permite fazermos alteraçãoes, sem alterar o projeto principal.
+
 
 8- O que é pull request?
 
